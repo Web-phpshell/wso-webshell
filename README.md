@@ -3,7 +3,7 @@
 </a>
 
 # WSO php webshell
-
+  [x] password:wso1
 - [x] **New Design: most Beautiful**
 - [x] **php 7.x issue resolved**
 - [x] **Easy to use**
